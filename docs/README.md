@@ -1,10 +1,10 @@
-*This page is currently under construction. Last updated July 2, 2019 by Alex Proudfoot.*
+# Enchanter
 
-----
+## The Game
 
-Enchanter was Infocom's 9th IF game and was first released in 1983.
+Enchanter is a 1983 interactive fiction game written by Marc Blank and Dave Lebling and published by Infocom.
 
-Further information on Enchanter:
+The following sources provide further information on Enchanter:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Enchanter_(video_game))
 * [The Digital Antiquarian](https://www.filfre.net/2013/04/enchanter/)
@@ -12,25 +12,44 @@ Further information on Enchanter:
 * [The Infocom Gallery](https://gallery.guetech.org/enchanter/enchanter.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Enchanter)
 
-The following source material is available for importation. Release 29 was selected from the Zarf Sources.
+## Resources
 
-## Historical Releases
+* [Enchanter on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#enchanter)
+* [Enchanter on Historical Source (GitHub)](https://github.com/historicalsource/enchanter)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-These contain the available source material.
+## Version History
 
-| Release | Serial | Story File            | Zarf Sources  | Jason Scott Sources |
-| -------:|:------:|:---------------------:|:-------------:|:-------------------:|
-|      16 | 840518 |  [mac-r16-s840518-z3] | [mac-r16-zip] |                     |
-|      24 | 851118 |      [r24-s851118-z3] |     [r24-zip] |       [revision-24] |
-|      29 | 860820 |      [r29-s860820-z3] |     [r29-zip] |    [final-revision] |
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Enchanter listed in the Infocom Fact Sheet. It also holds the source files for versions 16/840518, 24/851118 and 29/860820.
 
-[mac-r16-s840518-z3]: https://eblong.com/infocom/gamefiles/enchanter-mac-r16-s840518.z3
-[mac-r16-zip]: https://eblong.com/infocom/sources/enchanter-mac-r16.zip
+| Release | Serial | Story File                     | Zarf Sources            | Historical Sources |
+| -------:|:------:|:------------------------------:|:-----------------------:|:------------------:|
+|      10 | 830810 |     [enchanter-r10-s830810.z3] |                       - |                  - |
+|      15 | 831107 |     [enchanter-r15-s831107.z3] |                       - |                  - |
+|      16 | 831118 |     [enchanter-r16-s831118.z3] |                       - |                  - |
+|      16 | 840518 | [enchanter-mac-r16-s840518.z3] | [enchanter-mac-r16.zip] |                  - |
+|      24 | 851118 |     [enchanter-r24-s851118.z3] |     [enchanter-r24.zip] |      [revision 24] |
+|      29 | 860820 |     [enchanter-r29-s860820.z3] |     [enchanter-r29.zip] |   [final revision] |
 
-[r24-s851118-z3]: https://eblong.com/infocom/gamefiles/enchanter-r24-s851118.z3
-[r24-zip]: https://eblong.com/infocom/sources/enchanter-r24.zip
-[revision-24]: https://github.com/historicalsource/enchanter/tree/826abeb339fc76bc228e694ac89af02fe0f412c8
+[enchanter-r10-s830810.z3]: https://eblong.com/infocom/gamefiles/enchanter-r10-s830810.z3
 
-[r29-s860820-z3]: https://eblong.com/infocom/gamefiles/enchanter-r29-s860820.z3
-[r29-zip]: https://eblong.com/infocom/sources/enchanter-r29.zip
-[final-revision]: https://github.com/historicalsource/enchanter/tree/fc9385cb7d5924c910ba6e0cb0118d1355b3c1b4
+[enchanter-r15-s831107.z3]: https://eblong.com/infocom/gamefiles/enchanter-r15-s831107.z3
+
+[enchanter-r16-s831118.z3]: https://eblong.com/infocom/gamefiles/enchanter-r16-s831118.z3
+
+[enchanter-mac-r16-s840518.z3]: https://eblong.com/infocom/gamefiles/enchanter-mac-r16-s840518.z3
+[enchanter-mac-r16.zip]: https://eblong.com/infocom/sources/enchanter-mac-r16.zip
+
+[enchanter-r24-s851118.z3]: https://eblong.com/infocom/gamefiles/enchanter-r24-s851118.z3
+[enchanter-r24.zip]: https://eblong.com/infocom/sources/enchanter-r24.zip
+[revision 24]: https://github.com/historicalsource/enchanter/tree/826abeb339fc76bc228e694ac89af02fe0f412c8
+
+[enchanter-r29-s860820.z3]: https://eblong.com/infocom/gamefiles/enchanter-r29-s860820.z3
+[enchanter-r29.zip]: https://eblong.com/infocom/sources/enchanter-r29.zip
+[final revision]: https://github.com/historicalsource/enchanter/tree/fc9385cb7d5924c910ba6e0cb0118d1355b3c1b4
+
+## Future Development
+
+Version 29/860820 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/enchanter/issues/2).
