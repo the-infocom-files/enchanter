@@ -20,16 +20,14 @@ The following sources provide further information on Enchanter:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Enchanter listed in the Infocom Fact Sheet. It also holds the source files for versions 16/840518, 24/851118 and 29/860820.
-
-| Release | Serial | Story File                     | Zarf Sources            | Historical Sources |
-| -------:|:------:|:------------------------------:|:-----------------------:|:------------------:|
-|      10 | 830810 |     [enchanter-r10-s830810.z3] |                       - |                  - |
-|      15 | 831107 |     [enchanter-r15-s831107.z3] |                       - |                  - |
-|      16 | 831118 |     [enchanter-r16-s831118.z3] |                       - |                  - |
-|      16 | 840518 | [enchanter-mac-r16-s840518.z3] | [enchanter-mac-r16.zip] |                  - |
-|      24 | 851118 |     [enchanter-r24-s851118.z3] |     [enchanter-r24.zip] |      [revision 24] |
-|      29 | 860820 |     [enchanter-r29-s860820.z3] |     [enchanter-r29.zip] |   [final revision] |
+| Release | Serial | Type | Story File                     | Obsessive Sources       | Historical Sources |
+| -------:|:------:|:----:|:------------------------------:|:-----------------------:|:------------------:|
+|      10 | 830810 |  PUB |     [enchanter-r10-s830810.z3] |                       - |                  - |
+|      15 | 831107 |  PUB |     [enchanter-r15-s831107.z3] |                       - |                  - |
+|      16 | 831118 |  PUB |     [enchanter-r16-s831118.z3] |                       - |                  - |
+|      16 | 840518 |  PUB | [enchanter-mac-r16-s840518.z3] | [enchanter-mac-r16.zip] |                  - |
+|      24 | 851118 |  PUB |     [enchanter-r24-s851118.z3] |     [enchanter-r24.zip] |      [revision 24] |
+|      29 | 860820 |  PUB |     [enchanter-r29-s860820.z3] |     [enchanter-r29.zip] |   [final revision] |
 
 [enchanter-r10-s830810.z3]: https://eblong.com/infocom/gamefiles/enchanter-r10-s830810.z3
 
